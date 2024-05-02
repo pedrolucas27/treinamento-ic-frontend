@@ -26,7 +26,7 @@ Exemplo de layout (**use sua criatividade**)
    O `data.json` está na raiz do projeto e contém os dados dos produtos. Certifique-se de que o json-server está rodando na porta 3000.
 - O endpoint que retorna a lista de produtos para ser consumido é: `http://localhost:3000/products`.
 
-## Instalação e Configuração
+## Execução
 
 Siga os passos abaixo para configurar o projeto em sua máquina local:
 
