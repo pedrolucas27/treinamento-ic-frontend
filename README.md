@@ -1,6 +1,6 @@
 # Carrinho de Compras
 
-Esta prática consiste em desenvolver uma aplicação de carrinho de compras em ReactJS. Você irá criar uma aplicação em que os usuários poderão visualizar produtos listados no carrinho, remover itens do carrinho, ajustar a quantidade de produtos e visualizar um resumo do carrinho com quantidade de cada item e preço total.
+Esta tarefa consiste em desenvolver um carrinho de compras em ReactJS. Você irá criar uma aplicação em que os usuários poderão visualizar produtos listados no carrinho, remover itens, ajustar a quantidade de produtos e visualizar um resumo do carrinho com quantidade de cada item e preço total.
 
 ## Requisitos Funcionais
 
